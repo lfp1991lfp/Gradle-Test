@@ -28,3 +28,4 @@ dependencies {
 }
 
 apply from: rootProject.file('tasks/tasks1.gradle')
+apply from: project.file('gradle/dyTask.gradle')
